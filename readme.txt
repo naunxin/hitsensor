@@ -1,0 +1,3 @@
+1、该工程已经编译好了Hi3536cV500平台，直接insmod加载output目录下的hi_tsensor.ko即可
+2、如需编译其他平台需指定driver目录makefile的编译工具及指定内核目录
+3、sample目录提供了使用样例
